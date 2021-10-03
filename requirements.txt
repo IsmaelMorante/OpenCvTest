@@ -1,0 +1,6 @@
+certifi==2021.5.30
+numpy==1.21.2
+opencv-python==4.5.3.56
+pafy==0.5.5
+wincertstore==0.2
+youtube-dl==2021.6.6
